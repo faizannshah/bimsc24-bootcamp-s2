@@ -1,0 +1,46 @@
+
+
+
+html{
+    
+    background-color: black;
+    color: white;
+}
+
+body{
+
+    margin:0;
+}
+
+div{
+
+    box-sizing: border-box;
+}
+
+#navbar{
+
+    height: 50px;
+
+}
+
+#flex{
+
+    display: flex;
+    height: calc(100vh - 50px);
+
+}
+
+#Sidebar{
+    width: 30%;
+}
+
+#Main{
+    width:70%;
+
+}
+    .container{
+
+        border-style: dotted;
+        border-color: white;
+        border-width: 1px;
+    }
