@@ -4,12 +4,14 @@
 html{
     
     background-color: black;
-    color: white;
+    background-image: url(https://github.com/iaac-macad/bimsc24-bootcamp-s2-demo/blob/main/cow.jpg?raw=true);
+    color: red;
 }
 
 body{
 
     margin:0;
+    
 }
 
 div{
